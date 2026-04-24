@@ -2,6 +2,8 @@
 
 A modern, responsive food delivery web application built using HTML, CSS, and JavaScript.
 Crave provides a seamless UI for browsing food items, adding them to cart, applying discounts, and placing orders.
+<img width="1872" height="902" alt="image" src="https://github.com/user-attachments/assets/7282c62c-2c52-4f93-809a-9638f516ce7f" />
+
 
 🚀 Features
 🏠 Homepage with Hero Section
